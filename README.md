@@ -4,7 +4,7 @@
 
 - I’m currently learning Laravel
 
-- Create ( Single Page Website ) SPW using Api, Ajax, Vue Js, and PHP.
+- Create ( Single Page App ) SPA using Api, Ajax, Vue Js, and PHP.
 
 - Create Web Application & Dynamic Site responsively.
 <!---
